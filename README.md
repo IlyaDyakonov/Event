@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/7ihtot7kjyicnaec?svg=true)](https://ci.appveyor.com/project/IlyaDyakonov/event-handling)
+[![Build status](https://ci.appveyor.com/api/projects/status/v9g3dpr87sayau1c?svg=true)](https://ci.appveyor.com/project/IlyaDyakonov/event)
 
 
 # Домашнее задание к занятию "3. Обработка событий"
